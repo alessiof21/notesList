@@ -1,8 +1,19 @@
-# notesList
-Мини-приложение списка заметок, реализованное на Vue.js
+# todo
 
--Можно добавлять/удалять категории заметок (категория - папка, хранящяя заметки, подразумевается разделение заметок по темам)
--Можно добавлять/удалять заметки
--Можно редактировать текст заметок
--Категории и заметки сохраняются между сеансами
--При первом заходе в приложении пояляется тестовая категория и тестовая заметка в ней
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
