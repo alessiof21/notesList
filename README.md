@@ -31,19 +31,6 @@ npm run serve
 ```
 npm run build
 ```
-Для локального предпросмотра нужно использовать статический файловый сервер Node.js, например serve:
-
-Установка serve:
-
-```
-npm install -g serve
-```
-
-Запуск: 
-
-```
-serve -s dist
-```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
